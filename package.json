@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.7.8",
+    "@auth0/nextjs-auth0": "^2.2.1",
     "@pothos/plugin-relay": "^3.35.0",
     "@prisma/client": "^4.10.1",
     "graphql": "^16.6.0",
